@@ -95,7 +95,7 @@ export const TECH_STACK = [
         icon: "https://cdn.simpleicons.org/tailwindcss",
       },
       {
-        name: "EmotionCSS",
+        name: "Emotion",
         url: "https://emotion.sh",
         icon: "https://skillicons.dev/icons?i=emotion",
         scale: true,
@@ -139,6 +139,7 @@ export const TECH_STACK = [
         name: "Playwright",
         url: "https://playwright.dev",
         icon: "/playwright-logo.png",
+        scale: true,
       },
     ],
   },

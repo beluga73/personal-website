@@ -20,14 +20,14 @@ export const EXPERIENCE = [
   {
     company: "xfive",
     role: "Frontend Developer",
-    period: "Aug 2024 – Nov 2025",
+    period: "Sep 2024 – Dec 2025",
     description:
       "Frontend Developer at a consulting agency, focused on high-performance, modular solutions. Engineered a custom, real-time web messenger (4-person team) using Socket.IO. Achieved sub-100ms latency and instant UI consistency via TanStack Query optimistic updates. Modernized a corporate website by migrating to Next.js and Strapi CMS for content team autonomy. Implemented robust validation with React Hook Form and Zod, successfully reducing submission errors by 70%.",
   },
   {
     company: "Arateg",
     role: "Frontend Developer",
-    period: "Sep 2022 – July 2024",
+    period: "Oct 2022 – Aug 2024",
     description:
       "Frontend Developer on a 10-person team for a high-traffic website builder application. Built with Next.js and Redux, successfully transitioning styling from MUI to Tailwind CSS. Optimized performance, reducing page load size by 40% and cutting redundant API calls by 70% via RTK Query. Contributed A/B tested features that resulted in a 6% increase in checkout conversion rates. Managed technical debt by closing over 80 tickets to improve code maintainability.",
   },

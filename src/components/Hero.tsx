@@ -28,18 +28,35 @@ export function Hero() {
 
         <div className="max-w-2xl text-lg text-zinc-300 leading-relaxed">
           <p>
-            Front-end developer with{" "}
-            <span className="font-bold text-white">3+ years of experience</span>{" "}
-            specializing in high-performance, scalable web applications. Proven
-            expertise in{" "}
+            Senior Frontend Engineer with{" "}
+            <span className="font-bold text-white">6 years of experience</span>{" "}
+            developing{" "}
             <span className="font-bold text-white">
-              optimizing application speed
+              high-stakes financial platforms and global e-commerce engines
+            </span>
+            . Expert in{" "}
+            <span className="font-bold text-white">
+              React, TypeScript, and Next.js
+            </span>
+            , specializing in{" "}
+            <span className="font-bold text-white">
+              Micro-frontend architectures and high-performance SSR
+            </span>
+            . I focus on delivering{" "}
+            <span className="font-bold text-white">
+              complex engineering projects that drive real business results
+            </span>
+            . Proven track record of{" "}
+            <span className="font-bold text-white">
+              architecting scalable systems and delivering measurable conversion
+              growth
             </span>{" "}
-            and improving data fetching. Experienced in collaborative teams of{" "}
-            <span className="font-bold text-white">up to 10 people</span>,
-            utilizing data-driven insights from A/B testing. Skilled in{" "}
-            <span className="font-bold text-white">headless CMS</span>{" "}
-            platforms, payment integration, and mentoring developers.
+            through optimized UI state management and performance tuning.
+            Outside of work, I actively participate in{" "}
+            <span className="font-bold text-white">
+              hackathons and tech conferences
+            </span>{" "}
+            .
           </p>
         </div>
 
